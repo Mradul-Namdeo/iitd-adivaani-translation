@@ -6,6 +6,11 @@ To reproduce the training environment, the datasets and pre-trained sub-word tok
 * **Hindi Sub-Word Tokenizer:** [l3cube-pune/hindi-bert-v2](https://huggingface.co/l3cube-pune/hindi-bert-v2)
 * **Marathi Sub-Word Tokenizer:** [l3cube-pune/marathi-bert-v2](https://huggingface.co/l3cube-pune/marathi-bert-v2)
 
+## 💾 Model Checkpoints (Trained Weights)
+To evaluate the model without retraining from scratch, the frozen experts and trained cross-attention weights are hosted publicly on Kaggle:
+* **[Download Model Checkpoints Here (Kaggle)](https://www.kaggle.com/work/collections/18323727)** 
+  * *Includes: Custom BERT Encoder, Custom GPT Decoder, and Trainable Translation Bridge weights.*
+
 ## 📄 Final Evaluation Report
 Please view the comprehensive 5-to-8 page evaluation report detailing the methodology, optimization challenges, and BLEU/CHRF++ metrics: 
 * [View Final PDF Report Here](Insert the name of your PDF file here, e.g., IIT_Delhi_Report.pdf)
