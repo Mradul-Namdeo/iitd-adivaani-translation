@@ -16,6 +16,6 @@ Please view the comprehensive 5-to-8 page evaluation report detailing the method
 [Copy and Paste your Abstract text here]
 
 ## Custom Architecture Design
-![Architecture Diagram](BERT-GPT_Cross-Attention-2026-05-25-111603.jpg)
+![Architecture Diagram](Translation_architecture.png)
 
 [Copy and Paste your Architecture Design text here]
