@@ -2,7 +2,7 @@
 
 ## 📌 Datasets & Tokenizers
 To reproduce the training environment, the datasets and pre-trained sub-word tokenizers are publicly hosted:
-* **Translation Dataset:** [Insert your Kaggle Dataset Link Here]
+* **Translation Dataset:** https://drive.google.com/drive/folders/101SOoUo_KspualJlW-iok4qvDbbxxtVA
 * **Hindi Sub-Word Tokenizer:** [l3cube-pune/hindi-bert-v2](https://huggingface.co/l3cube-pune/hindi-bert-v2)
 * **Marathi Sub-Word Tokenizer:** [l3cube-pune/marathi-bert-v2](https://huggingface.co/l3cube-pune/marathi-bert-v2)
 
